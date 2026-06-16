@@ -1,0 +1,80 @@
+[
+  {
+    "name": "User-Friendly Investment Experience",
+    "description": "The theme connects the reviews through the users' appreciation for the app's ease of use and beginner-friendly features for investing and trading.",
+    "action_ideas": [
+      "Enhance research tools and advanced trading features to cater to a broader range of users",
+      "Expand the 1-Tap Trading feature to other platforms, such as iOS, to improve user experience across devices",
+      "Consider integrating fund comparison and sorting features to improve the app's competitiveness"
+    ],
+    "quotes": [
+      "Groww is one of the most beginner-friendly Android investment apps I\u2019ve used.",
+      "One of the best trading apps for beginners, and now equally great for professional traders."
+    ]
+  },
+  {
+    "name": "User Experience and Feature Enhancement",
+    "description": "The theme connects the reviews through users' overall satisfaction and suggestions for improvement in the Groww Android app's features and functionality.",
+    "action_ideas": [
+      "Implement additional screeners and filters in the stock and F&O sections as suggested by users",
+      "Review and optimize tax structures to reduce the burden on users",
+      "Enhance the user interface to make it more intuitive and user-friendly"
+    ],
+    "quotes": [
+      "Guru bahut badhiya hai invest karne ke liye",
+      "sab kuch hai par tax bahut lagta hai"
+    ]
+  },
+  {
+    "name": "App Stability and Reliability Issues",
+    "description": "The major theme connecting these reviews is the users' frustration with the app's frequent bugs, glitches, and instability, which affect their trading experience and decisions.",
+    "action_ideas": [
+      "Conduct thorough testing before releasing updates to ensure bug-free and stable app performance",
+      "Improve customer support by providing timely and effective resolutions to user concerns",
+      "Simplify and standardize the app's layout to reduce clutter and enhance user experience"
+    ],
+    "quotes": [
+      "Frequent updates, but bugs never seem to end.",
+      "can't believe an app with do many subscribers can do such a poor job and can be so glitchy especially an app which deals with trading."
+    ]
+  },
+  {
+    "name": "Unreliable Trading Experience",
+    "description": "The theme connects reviews that express dissatisfaction with the app's trading features, accuracy, and reliability, leading to financial losses and decreased confidence in the platform.",
+    "action_ideas": [
+      "Improve the Options trading features to handle high transaction volumes without hanging and introduce Auto Set STOP LOSS feature",
+      "Enhance the live P&L update mechanism to reflect real-time changes and resolve issues with fund withdrawals",
+      "Provide accurate and consistent information on the app, including redemption amounts, to avoid confusion and mistrust"
+    ],
+    "quotes": [
+      "I hav lost lakhs due to this glitch..",
+      "My concern is that the live P&L often seems delayed when a trade moves in my favor, while losses appear immediately."
+    ]
+  },
+  {
+    "name": "Poor User Experience and Lack of Support",
+    "description": "The theme connects reviews that express frustration with the app's performance, customer support, and lack of guidance for users, particularly beginners.",
+    "action_ideas": [
+      "Implement a comprehensive onboarding process with interactive guides and tutorials to help new users understand the app's features and functionality",
+      "Enhance customer support by providing multiple channels of communication, such as phone, email, and in-app messaging, and ensure timely responses to user inquiries",
+      "Optimize the app's performance to reduce lag and ensure seamless execution of trades, including the implementation of a 'kill switch' to prevent overtrading"
+    ],
+    "quotes": [
+      "don't use it if you want your money to be safe..this app lags too much ,they charge High but app and it's customer support is pathetic..",
+      "I STRONGLY SUGGEST NOT TO USE THIS AAP...IF ANYBODY DNT WANT TO RUIN YOUR TRADING JOURNEY..."
+    ]
+  },
+  {
+    "name": "Excessive Brokerage Charges",
+    "description": "The theme connects user dissatisfaction with the high brokerage charges imposed by the Groww Android app, making it difficult for users to profit from their investments.",
+    "action_ideas": [
+      "Review and adjust the brokerage charge structure to make it more competitive and user-friendly",
+      "Consider introducing a tiered pricing system or discounts for frequent traders",
+      "Provide transparent and clear information about the brokerage charges to avoid user confusion"
+    ],
+    "quotes": [
+      "bhai itna brokerage Kaun leta hai 1 din mein 2223 ka brokerage Le lete ho aam aadami aapke sath nahin jud Sakta...",
+      "20 rupiya profit hoga toh dalali charge 18 rupiya 20-18=2 apke hat me dalali charge bohat jiyada hai"
+    ]
+  }
+]

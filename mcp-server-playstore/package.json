@@ -1,0 +1,14 @@
+{
+  "name": "mcp-server-playstore",
+  "version": "1.0.0",
+  "description": "MCP server to fetch Google Play Store reviews",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.1",
+    "google-play-scraper": "*"
+  }
+}

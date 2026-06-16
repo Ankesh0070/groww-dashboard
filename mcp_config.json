@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "playstore": {
+      "command": "node",
+      "args": ["c:/Projects/Groww/mcp-server-playstore/index.js"]
+    },
+    "google-docs": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-google-docs"]
+    },
+    "gmail": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-gmail"]
+    }
+  }
+}

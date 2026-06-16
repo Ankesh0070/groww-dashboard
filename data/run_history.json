@@ -1,0 +1,11 @@
+{
+  "runs": [
+    {
+      "iso_week": "2026-W25",
+      "doc_id": "dummy_doc_id",
+      "section_id": "MOCK_DOC_SECTION_ID_dummy_doc_id",
+      "email_status": "DRAFT",
+      "timestamp": "2026-06-16T14:07:35.244573"
+    }
+  ]
+}
